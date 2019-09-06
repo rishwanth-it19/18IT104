@@ -1,0 +1,16 @@
+print("I am Rishwanth")
+print("\n")
+print("*\n**\n***\n****")
+print("\n")
+print("   1")
+print("  121")
+print(" 12321")
+print("1234321")
+print("sum=",5+10)
+print("diff=",20-5)
+print("prod=",30*2)
+print("divide=",25/5)
+a=5
+print("sum of n integers=",((a+1)*a)/2)
+
+print((90+(94/2)+(92/2)))
